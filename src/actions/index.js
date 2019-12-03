@@ -1,7 +1,7 @@
 import React from 'react';
 
 // Action creator
-export const selectedSong = () =>{
+export const selectedSong = (song) =>{
     // Return an Action.
     return  {
         type:'SELECTED_SONG',
