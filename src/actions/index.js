@@ -1,5 +1,3 @@
-import React from 'react';
-
 // Action creator
 export const selectedSong = (song) =>{
     // Return an Action.
